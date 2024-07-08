@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaktixD
 - 👀 I’m interested in Programming, Technology and Science
-- 🌱 I’m currently in final year of my graduation in Computer Science and Enfineering.
-- 💞️ Areas of interest :- Data Science , Machine Learning and Android Development.
+- 🌱 I’m currently positioned as Assistant Engineer Trainee at Tata Steel.
+- 💞️ Areas of interest :- Data Science , Machine Learning and Mobile App Development.
 - 📫 How to reach me :- shaktiswarup03@gmail.com
 
 <!---
